@@ -21,8 +21,8 @@ A video demonstration of the project's functionality is included to showcase how
 * A servo-controlled robotic dog leg
 * Laptop or desktop computer with a terminal emulator installed
 
-![boards/modules used](boards.jpg)
-!The robot leg](robot.jpg)
+<img src="boards.jpg" alt="boards / modules" width="200"> <img src="robot.jpg" alt=" robot " width="200">
+
 
 ## Limitations
 During the development of this project, we attempted to use FreeRTOS to allow the robot leg to perform multiple tasks concurrently. However, due to the limited amount of available RAM on the STM32F4 Discovery board, we were unable to allocate sufficient memory to the FreeRTOS kernel. As a result, the robot is not able to execute tasks concurrently and will stop whatever it is doing while it is recording and processing the audio for command recognition. While this limitation restricts the robot's functionality, it provides a valuable lesson in working with limited hardware resources and optimizing system design.
