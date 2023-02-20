@@ -1,0 +1,8 @@
+../Core/Src/common.c:18:6:SysInit	8	static
+../Core/Src/common.c:41:10:MAP_Angle2Pulse	40	static
+../Core/Src/common.c:53:6:ControlLoop	8	static
+../Core/Src/common.c:57:6:LegUpdate	48	static
+../Core/Src/common.c:65:6:LegInit	16	static
+../Core/Src/common.c:73:6:LEGStepLoop	16	static
+../Core/Src/common.c:79:6:SetSmoothSpeed	16	static
+../Core/Src/common.c:97:6:StepLoop	16	static

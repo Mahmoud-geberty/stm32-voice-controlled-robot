@@ -1,0 +1,2 @@
+../Core/Src/commands.c:83:9:argmax	32	static
+../Core/Src/commands.c:108:7:get_word	16	static
