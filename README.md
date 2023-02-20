@@ -12,8 +12,7 @@ The on-board microphone is connected to the STM32F4 microcontroller using I2S an
 The robot dog leg only listens to commands after a UART message is received, which can be wired directly with a laptop to send the commands. The audio is recorded using the on-board microphone and processed using CMSIS-DSP and PDMTOPCM libraries. The actual audio recognition is performed by a Tensorflow Lite model using the STM32_AI_AudioProcessing library and X-CUBE AI.
 
 A video demonstration of the project's functionality is included to showcase how the robot dog leg responds to the different commands.
-[Morse code LED blinking](https://drive.google.com/file/d/1v7gH_lfSQYMPK5qmTrXQEpC2yKCuaSEa/view?usp=sharing) *TODO*: change the link
-
+[Project Demo Video](https://drive.google.com/file/d/17mQbjMNJD_8ZyQnKu04J_priBaOl0OJT/view?usp=sharing)
 ## Hardware Requirements
 * STM32F407G-DISC1 Discovery board
 * USB-to-UART cable
