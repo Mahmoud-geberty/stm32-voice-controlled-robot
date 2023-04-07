@@ -3,7 +3,7 @@
 ### Group members: 
 1. Mohamed Afifi Ahmed Mahmoud Khalil  
 2. Mahmoud Abdelwase Mahmoud  
-3. Omar Amgad elsayed abdelmonem 
+3. Omar Amgad Mohamed Abdelmonem Elsayed
 ## Project Overview
 This project is a baremetal STM32F4 implementation for controlling a robotic leg prototype of a full robot dog using on-board microphone and audio recognition. The main goal is to allow users to issue simple single-word commands to the robot dog, similar to how one would command a real dog. The commands implemented in this project are "go", "up", and "down".
 
